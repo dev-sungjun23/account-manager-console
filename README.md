@@ -46,13 +46,13 @@
 AccountManagerWithTests/
 ├── src/
 │ ├── main/java/
-│ │ └── Account.java
-│ │ └── AccountManager.java
+│ │ ├── Account.java
+│ │ ├── AccountManager.java
 │ │ └── Main.java
 │ └── test/java/
-│ └── AccountTest.java
+│ ├── AccountTest.java
 │ └── AccountManagerTest.java
-└── build.gradle
+├── build.gradle
 └── README.md
 
 ---
