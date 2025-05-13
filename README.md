@@ -43,7 +43,17 @@
 
 ## 📂 디렉토리 구조 예시
 
-<pre> <code> AccountManagerWithTests/ ├── src/ │ ├── main/java/ │ │ ├── Account.java │ │ ├── AccountManager.java │ │ └── Main.java │ └── test/java/ │ ├── AccountTest.java │ └── AccountManagerTest.java ├── build.gradle └── README.md </code> </pre>
+AccountManagerWithTests/
+├── src/
+│   ├── main/java/
+│   │   ├── Account.java
+│   │   ├── AccountManager.java
+│   │   └── Main.java
+│   └── test/java/
+│       ├── AccountTest.java
+│       └── AccountManagerTest.java
+├── build.gradle
+└── README.md
 
 ---
 
