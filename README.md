@@ -43,6 +43,7 @@
 
 ## 📂 디렉토리 구조 예시
 
+```
 AccountManagerWithTests/
 ├── src/
 │   ├── main/java/
@@ -54,6 +55,7 @@ AccountManagerWithTests/
 │       └── AccountManagerTest.java
 ├── build.gradle
 └── README.md
+```
 
 ---
 
